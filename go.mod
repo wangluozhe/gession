@@ -1,4 +1,4 @@
-module gession
+module github.com/wangluozhe/gession
 
 go 1.15
 
